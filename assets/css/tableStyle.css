@@ -1,0 +1,222 @@
+@media screen and (max-width: 768px) {
+    body a{
+        font-size: 8px;
+    }
+
+    body button div{
+        padding: 9px;
+    }
+
+    body p{
+        font-size: 9px;
+    }
+
+    body h3{
+        font-size: 16px;
+    }
+
+    body .sectionTitle{
+        margin-top: 30px;
+        margin-bottom: 20px;
+        max-width: 471px;
+    }
+
+    body .sectionTitle h1{
+        font-size: 20px;
+    }
+
+    body .sectionTitle h2{
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    body .photoInfo_block{
+        margin-bottom: 20px;
+        margin-right: 20px;
+    }
+
+    body .photoInfo{
+        gap: 4px;
+    }
+
+    body .photoInfo p{
+        font-size: 6px;
+        margin: 0;
+    }
+
+    body .photoInfo img{
+        width: 16px;
+        height: 12px;
+    }
+
+
+    body header{
+        height: 50px;
+    }
+
+    body .header_row .logotype img{
+        width: 90px;
+    }
+
+    body .header_row{
+        max-width: 620px;
+        padding: 12px 0;
+    }
+
+    body .header_row .links{
+        gap: 16px;
+    }
+
+    /*body .menu{*/
+    /*    display: flex;*/
+    /*    justify-content: right;*/
+    /*    position: relative;*/
+    /*    max-width: 620px;*/
+    /*    height: 100px;*/
+    /*    margin: 0 auto;*/
+
+    /*}*/
+
+    /*body .header_row .menuImg{*/
+    /*    display: block;*/
+    /*}*/
+
+    /*body .header_row .menuImg img{*/
+    /*    height: 30px;*/
+    /*    cursor: pointer;*/
+    /*}*/
+
+    /*body .none{*/
+    /*    display: none;*/
+    /*}*/
+
+    /*body .menu_content{*/
+    /*    height: 100px;*/
+    /*    display: flex;*/
+    /*    flex-direction: column;*/
+    /*    gap: 10px;*/
+    /*    padding: 10px;*/
+    /*    background-color: black;*/
+    /*}*/
+
+    body .first{
+        max-width: 690px;
+    }
+    body .first p{
+        max-width: 250px;
+    }
+
+    body .first .sectionBlocks{
+        margin-bottom: 40px;
+    }
+
+    body .subBlock .subBlock_text{
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+
+    body .first .sectionBlocks .block .subBlock{
+        width: 300px;
+        height: 350px;
+    }
+
+    body .first p{
+        margin-bottom: 7px;
+    }
+
+    body .first .title{
+        margin-bottom: 5px;
+    }
+
+    body .cover{
+        height: 400px;
+    }
+    body .cover .block{
+        max-width: 400px;
+    }
+
+    body .cover .block h1{
+        font-size: 28px;
+        margin-bottom: 5px;
+        line-height: 40px;
+    }
+
+    body .wideBlock{
+        height: 350px;
+    }
+
+    body .wideBlock .block{
+        margin-right: 20px;
+        margin-top: 130px;
+        max-width: 210px;
+    }
+
+    body .second .twoBlock .block{
+        height: 300px;
+    }
+
+    body .twoBlock .blockImg{
+        height: 300px;
+    }
+
+    body .twoBlock h3{
+        margin-bottom: 7px;
+    }
+
+    body .twoBlock .block p{
+        margin-bottom: 10px;
+    }
+
+    body .twoBlock .block_text{
+        max-width: 315px;
+    }
+
+    body .third .block{
+        margin: 25px 0 50px 0;
+        gap: 30px;
+    }
+
+    body .third .block img{
+        width: 80px;
+    }
+
+    body .footer_content{
+        margin-top: 40px;
+        padding: 40px 80px;
+    }
+
+    body hr{
+        margin: 15px 0;
+    }
+
+    body .linksBlock{
+        margin-right: 50px;
+    }
+
+    body .footer_content .logotype{
+        max-width: 200px;
+    }
+
+    body .footer_content .logotype img{
+        width: 90px;
+    }
+
+    body .middleContent_form{
+        width: 258px;
+    }
+
+    body form .search{
+        height: 25px;
+    }
+
+    body form .sub{
+        font-size: 8px;
+        padding: 2px;
+    }
+
+    body .networks img{
+        height: 10px;
+    }
+
+}
+

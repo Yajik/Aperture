@@ -1,0 +1,155 @@
+@media (max-width: 1200px)  {
+    body a{
+        font-size: 11px;
+    }
+
+    body button div{
+        padding: 12px;
+    }
+
+    body p{
+        font-size: 10px;
+    }
+
+    body h3{
+        font-size: 22px;
+    }
+
+    body .sectionTitle{
+        margin-top: 70px;
+        margin-bottom: 25px;
+        max-width: 471px;
+    }
+
+    body .sectionTitle h1{
+        font-size: 25px;
+    }
+
+    body .sectionTitle h2{
+        margin-top: 10px;
+        font-size: 16px;
+    }
+
+    body .photoInfo{
+        gap: 4px;
+    }
+
+    body .photoInfo p{
+        font-size: 8px;
+        margin: 0;
+    }
+
+    body .photoInfo img{
+        width: 16px;
+        height: 12px;
+    }
+
+    body .header_row{
+        max-width: 768px;
+    }
+
+    body .first{
+        max-width: 1024px;
+    }
+
+    body .first .sectionBlocks .block .subBlock{
+        width: 400px;
+        height: 450px;
+    }
+
+    body .first .sectionBlocks{
+        margin-bottom: 70px;
+    }
+
+    body .first p{
+        margin-bottom: 10px;
+    }
+
+    body .first .title{
+        margin-bottom: 7px;
+    }
+
+    body .cover{
+        height: 500px;
+    }
+    body .cover .block{
+        max-width: 400px;
+    }
+
+    body .cover .block h1{
+        font-size: 35px;
+        margin-bottom: 5px;
+        line-height: 40px;
+    }
+
+    body .wideBlock{
+        height: 450px;
+    }
+
+    body .wideBlock .block{
+        margin-right: 40px;
+        margin-top: 200px;
+        max-width: 210px;
+    }
+
+    body .second .twoBlock .block{
+        height: 400px;
+    }
+
+    body .twoBlock .blockImg{
+        height: 400px;
+    }
+
+    body .twoBlock h3{
+        margin-bottom: 10px;
+    }
+
+    body .twoBlock .block p{
+        margin-bottom: 15px;
+    }
+
+    body .twoBlock .block_text{
+        max-width: 415px;
+    }
+
+    body .third .block{
+        gap: 60px;
+    }
+
+    body .third .block{
+        margin: 50px 0 100px 0;
+    }
+
+    body .third .block img{
+        width: 100px;
+    }
+
+    body .footer_content{
+        margin-top: 70px;
+        padding: 60px 100px;
+    }
+
+    hr{
+        margin: 20px 0;
+    }
+
+
+    body .linksBlock{
+        margin-right: 50px;
+    }
+
+    body .middleContent_form{
+        width: 358px;
+    }
+    body form .search{
+        height: 35px;
+    }
+
+    body form .sub{
+        font-size: 10px;
+        padding: 5px;
+    }
+    body .networks img{
+        height: 15px;
+    }
+}
