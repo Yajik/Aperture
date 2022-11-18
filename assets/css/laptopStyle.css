@@ -1,4 +1,4 @@
-@media (max-width: 1200px)  {
+@media (max-width: 1250px)  {
     body a{
         font-size: 11px;
     }
@@ -45,7 +45,7 @@
     }
 
     body .header_row{
-        max-width: 768px;
+        max-width: 850px;
     }
 
     body .first{
@@ -109,7 +109,7 @@
     }
 
     body .twoBlock .block_text{
-        max-width: 415px;
+        max-width: 390px;
     }
 
     body .third .block{
@@ -133,14 +133,19 @@
         margin: 20px 0;
     }
 
+    body .footer_content .topContent .logotype{
+        /*max-width: 290px;*/
+    }
 
     body .linksBlock{
         margin-right: 50px;
+        gap: 30px;
     }
 
     body .middleContent_form{
         width: 358px;
     }
+
     body form .search{
         height: 35px;
     }
@@ -151,5 +156,41 @@
     }
     body .networks img{
         height: 15px;
+    }
+}
+
+@media screen and (max-width:860px) {
+    body button div{
+        padding: 9px;
+    }
+
+    body .header_row{
+        max-width: 750px;
+    }
+
+    body .header_row button{
+        padding: 8px 15px;
+    }
+
+    body .twoBlock .block_text{
+        max-width: 380px;
+    }
+
+    body .first .sectionBlocks .block .subBlock{
+        width: 360px;
+        height: 410px;
+    }
+
+    body .footer_content{
+        margin-top: 70px;
+        padding: 50px 80px;
+    }
+
+    body .footer_content .topContent .logotype{
+        max-width: 250px;
+    }
+
+    body .linksBlock{
+        margin-right: 40px;
     }
 }

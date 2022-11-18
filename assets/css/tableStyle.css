@@ -193,20 +193,29 @@
         margin-right: 50px;
     }
 
-    body .footer_content .logotype{
-        max-width: 200px;
+    body .footer_content .logotype p{
+        display: none;
     }
 
     body .footer_content .logotype img{
         width: 90px;
     }
 
+    body .footer_content .linksBlock{
+        display: none;
+    }
+
+    body .middleContent p{
+        display: none;
+    }
+
     body .middleContent_form{
-        width: 258px;
+        width: 768px;
     }
 
     body form .search{
         height: 25px;
+        max-width: 768px;
     }
 
     body form .sub{
@@ -218,5 +227,28 @@
         height: 10px;
     }
 
+}
+
+@media screen and (max-width: 650px){
+    body .header_row{
+        max-width: 480px;
+    }
+
+    body .twoBlock .block_text{
+        max-width: 220px;
+    }
+
+    body .first .sectionBlocks .block .subBlock{
+        width: 240px;
+        height: 290px;
+    }
+
+    body .third .block img{
+        width: 65px;
+    }
+
+    body .sectionTitle{
+        max-width: 400px;
+    }
 }
 
