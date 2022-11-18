@@ -22,15 +22,15 @@
     body .sectionTitle{
         margin-top: 15px;
         margin-bottom: 12px;
-        max-width: 280px;
+        max-width: 250px;
     }
 
     body .sectionTitle h1{
-        font-size: 14px;
+        font-size: 16px;
     }
 
     body .sectionTitle h2{
-        margin-top: 6px;
+        margin-top: 8px;
         font-size: 8px;
     }
 
@@ -44,7 +44,7 @@
     }
 
     body .photoInfo p{
-        font-size: 4px;
+        font-size: 8px;
         margin: 0;
     }
 
@@ -63,11 +63,15 @@
     }
 
     body .header_row{
-        max-width: 320px;
+        max-width: 300px;
         padding: 12px 0;
     }
 
     body .header_row .links{
+        display: none;
+    }
+
+    body .second .none{
         display: none;
     }
 
@@ -174,7 +178,7 @@
 
     body .wideBlock .block{
         margin-right: 20px;
-        margin-top: 80px;
+        margin-top: 100px;
         max-width: 200px;
     }
 
@@ -201,7 +205,7 @@
     }
 
     body .twoBlock .block_text{
-        max-width: 330px;
+        max-width: 290px;
     }
 
     body .third .block{
@@ -209,7 +213,7 @@
     }
 
     body .third .block img{
-        width: 40px;
+        width: 45px;
     }
 
     body .footer_content{
@@ -243,18 +247,23 @@
     }
 
     body form .search{
-        height: 20px;
+        height: 30px;
     }
 
     body form .sub{
-        margin-top: 9px;
         font-size: 9px;
-        padding: 3px;
-        width: 40px;
+        width: 50px;
     }
 
     body .networks img{
-        height: 10px;
+        width: 15px;
+        height: 15px;
+    }
+
+    body .footer_content .bottomContent{
+        flex-direction: column;
+        align-items: end;
+        gap: 10px;
     }
 }
 
